@@ -1,0 +1,13 @@
+<dependencies>
+    <!-- SLF4J ve Logback Bağımlılığı -->
+    <dependency>
+        <groupId>ch.qos.logback</groupId>
+        <artifactId>logback-classic</artifactId>
+        <version>1.2.6</version> <!-- En son sürümü kullanabilirsiniz -->
+    </dependency>
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version> <!-- En son sürüm -->
+    </dependency>
+</dependencies>
